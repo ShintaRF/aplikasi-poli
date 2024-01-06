@@ -34,7 +34,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('jadwalperiksa') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-calendar-alt"></i>
                             <p>
                                 Jadwal Periksa
                             </p>
@@ -42,7 +42,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('memeriksapasien') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-stethoscope"></i>
                             <p>
                                 Memeriksa Pasien
                             </p>
@@ -50,7 +50,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('riwayatpasien') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-history"></i>
                             <p>
                                 Riwayat Pasien
                             </p>
@@ -58,7 +58,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('profil') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-id-badge"></i>
                             <p>
                                 Profil
                             </p>
@@ -89,7 +89,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('dokter') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-user-md"></i>
                             <p>
                                 Dokter
                             </p>
@@ -97,7 +97,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('pasien') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-users"></i>
                             <p>
                                 Pasien
                             </p>
@@ -105,7 +105,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('poli') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-clinic-medical"></i>
                             <p>
                                 Poli
                             </p>
@@ -113,7 +113,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="{{ route('obat') }}" class="nav-link">
-                            <i class="nav-icon fas fa-th"></i>
+                            <i class="nav-icon fas fa-capsules"></i>
                             <p>
                                 Obat
                             </p>
